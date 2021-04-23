@@ -1,0 +1,22 @@
+.card {
+  display: inline-flex;
+  padding: 8px;
+}
+
+.card_container {
+  display: inline-flex;
+  align-items: center;
+  box-sizing: border-box;
+  cursor: pointer;
+  width: 236px;
+  /* margin-left: 25px; */
+  /* margin-right: 25px; */
+}
+
+.card_container > img {
+  display: flex;
+  width: 100%;
+  cursor: pointer;
+  border-radius: 16px;
+  object-fit: cover;
+}
