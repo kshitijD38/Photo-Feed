@@ -1,6 +1,9 @@
 ## Photo Feed
 # Features:
-
+  1. A list pf photos is generated is Masonry format.
+  2. Made a custom hook called useScroll using which in a useEffect hook incorporated infinite scrolling.
+  3. Clicking on a particular image, a modal containing that image pops-up with left and right arrow buttons.
+  4. The left and right arrow buttons navigates to previous and next photo respectively.
 
 # Getting Started with Create React App
 
